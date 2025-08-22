@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p{
+    color: rgb(98, 14, 233);
+}
+
+h1{
+    color: red;
+}
+
+#mesmo{
+    text-align: center;
+    color: aliceblue;
+}
+
+.myclass{
+    border: 0.2em ridge wheat;
+}
+
+li.myclass{
+    font-size: xx-large;
+}
+
+.newclass{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.teste-cores{
+    padding: 2%;
+    background-color: rgba(160, 236, 253, 0.4);
+}
