@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu{
+    background-color: rgba(255, 0, 0, 0.2);
+    padding: 2rem;
+    margin-right: 1rem;
+    width: 30%;
+}
+
+.conteudo{
+    padding: 2rem;
+    width: 70%;
+}
+
+.item-menu{
+    padding: 0.6rem;
+    margin: 0.7rem 0 0.7rem 0;
+    list-style: none;
+    border-bottom: solid;
+}
+
+.item-menu:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+    transition: 0.3s;
+}
+
+section{
+    margin-top: 5rem;
+}
+
+#sec1{
+    background-color: antiquewhite;
+}
+#sec2{
+    background-color: brown;
+}
