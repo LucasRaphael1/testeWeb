@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+label{
+    display: block;
+    margin-top: 1rem;
+}
+
+.form{
+    margin: 2rem;
+    padding: 2rem;
+}
+
+input{
+    border-radius: 0.2rem;
+    border-color: darkgray;
+    padding: 0.4rem;
+}
+
+.nasc:hover{
+    background-color: darkviolet;
+    transition: 0.3s;
+}
